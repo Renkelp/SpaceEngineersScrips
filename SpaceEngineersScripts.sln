@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirVentLCD", "AirVentLCD\AirVentLCD.csproj", "{EB7AD748-6155-4DC3-89A6-1AB36D458EAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerProductionRegulator", "PowerProductionRegulator\PowerProductionRegulator.csproj", "{CFB3BB18-0E00-46B0-B7A7-8295DC9CAC47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB7AD748-6155-4DC3-89A6-1AB36D458EAE}.Debug|x64.ActiveCfg = Debug|x64
+		{EB7AD748-6155-4DC3-89A6-1AB36D458EAE}.Debug|x64.Build.0 = Debug|x64
+		{CFB3BB18-0E00-46B0-B7A7-8295DC9CAC47}.Debug|x64.ActiveCfg = Debug|x64
+		{CFB3BB18-0E00-46B0-B7A7-8295DC9CAC47}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {637A978D-BC25-46CB-B06C-A9F3E69279BA}
+	EndGlobalSection
+EndGlobal
